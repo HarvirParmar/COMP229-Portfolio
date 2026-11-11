@@ -1,0 +1,16 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#111827"/>
+  <rect x="55" y="55" width="690" height="340" rx="20" fill="#1f2937"/>
+  <rect x="95" y="105" width="610" height="215" rx="12" fill="#0f172a"/>
+  <rect x="95" y="105" width="610" height="38" rx="12" fill="#374151"/>
+  <circle cx="120" cy="124" r="7" fill="#ef4444"/>
+  <circle cx="142" cy="124" r="7" fill="#f59e0b"/>
+  <circle cx="164" cy="124" r="7" fill="#22c55e"/>
+  <rect x="135" y="175" width="180" height="18" rx="9" fill="#2dd4bf"/>
+  <rect x="135" y="215" width="300" height="12" rx="6" fill="#6b7280"/>
+  <rect x="135" y="245" width="250" height="12" rx="6" fill="#4b5563"/>
+  <rect x="135" y="275" width="200" height="12" rx="6" fill="#6b7280"/>
+  <rect x="495" y="175" width="150" height="105" rx="12" fill="#2563eb"/>
+  <text x="570" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">&lt;/&gt;</text>
+  <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">Web Development</text>
+</svg>
